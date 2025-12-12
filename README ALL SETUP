@@ -1,0 +1,17 @@
+silverelite-store/
+├─ index.html
+├─ shop.html
+├─ product.html
+├─ cart.html
+├─ css/
+│  └─ style.css
+├─ js/
+│  ├─ main.js
+│  └─ cart.js
+├─ data/
+│  └─ products.json
+├─ images/
+│  └─ (product images e.g. ring1.jpg)
+├─ about.html
+├─ shipping.html
+└─ README.md

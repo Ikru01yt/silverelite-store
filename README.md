@@ -1,1 +1,0 @@
-# silverelite-store
